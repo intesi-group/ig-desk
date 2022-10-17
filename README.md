@@ -1,2 +1,2 @@
 # ig-desk
-IG DESK official reporitory
+Offical repository for IG DESK releases
