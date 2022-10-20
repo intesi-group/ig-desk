@@ -1,0 +1,26 @@
+{
+  "linux32": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/IGDesk-1.2_537-i686.AppImage"
+  },
+  "linux64": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/IGDesk-1.2_537-x86_64.AppImage"
+  },
+  "macosx": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/IGDesk-1.2_537.pkg"
+  },
+  "ubuntu": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/igdesk_1.2-537_amd64.deb"
+  },
+  "win32": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/IGDesk-1.2_537-i686.exe"
+  },
+  "windows": {
+    "ver": "1.2_537",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.2-537/IGDesk-1.2_537.exe"
+  }
+}
