@@ -1,26 +1,26 @@
 {
   "linux32": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/IGDesk-1.3_555-i686.AppImage"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555-i686.AppImage"
   },
   "linux64": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/IGDesk-1.3_555-x86_64.AppImage"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555-x86_64.AppImage"
   },
   "macosx": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/IGDesk-1.3_555.pkg"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555.pkg"
   },
   "ubuntu": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/igdesk_1.3_555_amd64.deb"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/igdesk_1.3_555_amd64.deb"
   },
   "win32": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/IGDesk-1.3_555-i686.exe"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555-i686.exe"
   },
   "windows": {
     "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3_555/IGDesk-1.3_555.exe"
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555.exe"
   }
 }
