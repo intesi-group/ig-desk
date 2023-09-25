@@ -16,8 +16,8 @@
     "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/igdesk_1.3_555_amd64.deb"
   },
   "win32": {
-    "ver": "1.3_555",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555-i686.exe"
+    "ver": "1.3_567",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-567/IGDesk-1.3_567-i686.exe"
   },
   "windows": {
     "ver": "1.3_567",
