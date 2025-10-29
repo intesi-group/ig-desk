@@ -4,23 +4,23 @@
     "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-555/IGDesk-1.3_555-i686.AppImage"
   },
   "linux64": {
-    "ver": "1.4_615",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-615/IGDesk-1.4_615-x86_64.AppImage"
+    "ver": "1.4_616",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-616/IGDesk-1.4_616-x86_64.AppImage"
   },
   "macosx": {
-    "ver": "1.4_615",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-615/IGDesk-1.4_615.pkg"
+    "ver": "1.4_616",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-616/IGDesk-1.4_616.pkg"
   },
   "ubuntu": {
-    "ver": "1.4_615",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-615/igdesk_1.4-615_amd64.deb"
+    "ver": "1.4_616",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-616/igdesk_1.4-616_amd64.deb"
   },
   "win32": {
     "ver": "1.3_571",
     "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.3-571/IGDesk-1.3_571-i686.exe"
   },
   "windows": {
-    "ver": "1.4_615",
-    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-615/IGDesk-1.4_615.exe"
+    "ver": "1.4_616",
+    "file": "https://github.com/intesi-group/ig-desk/releases/download/v1.4-616/IGDesk-1.4_616.exe"
   }
 }
